@@ -1,6 +1,6 @@
 # Loopstudios Website
 
-Loopstudios landing page project for tailwindcss practice.
+a landing for a VR service provider company Tailwind CSS.
 
 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
 
